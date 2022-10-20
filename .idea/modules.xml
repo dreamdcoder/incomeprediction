@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/Patient_Survival_Prediction/.idea/Patient_Survival_Prediction.iml" filepath="$PROJECT_DIR$/../pythonProject/Patient_Survival_Prediction/.idea/Patient_Survival_Prediction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/incomeprediction.iml" filepath="$PROJECT_DIR$/.idea/incomeprediction.iml" />
     </modules>
   </component>
